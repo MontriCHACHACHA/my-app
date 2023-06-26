@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.MyHeader {
+  background-color: #d3865a;
+  text-align: center;
+}
+
+.MyFooter {
+  background-color: #19ceb0;
+  text-align: center;
+  color: white;
+}
+
+
+.MyContent{
+  text-align: center;
+  font-size: large;
+  padding: 2em;
+  margin-bottom: 1em;
+  border-radius: 15px;
+  border: 2px solid;
+}
